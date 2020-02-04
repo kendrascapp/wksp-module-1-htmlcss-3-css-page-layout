@@ -4,7 +4,7 @@
 
 Create an `index.html` file and a `style.css` file that reproduces the following:
 
-![exercise-7 goal](../../assets/ex-7-goal.png)
+![exercise-7 goal](../../assets/ex-7-goal.gif)
 
 ### Reference
 
